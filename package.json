@@ -41,7 +41,7 @@
     "chai": "^3.5.0"
   },
   "dependencies": {
-    "multihashing": "^0.2.0"
+    "multihashing-async": "^0.1.0"
   },
   "contributors": [
     "David Dias <daviddias.p@gmail.com>",
